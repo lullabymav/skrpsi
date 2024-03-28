@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T07:13:56.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="daweEBsbBt2M8ArmVTLJ" version="24.1.0" type="device" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-28T01:16:51.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VXzCpWpInkt4eDjiu-zr" version="24.1.0" type="device" pages="2">
   <diagram name="Page-1" id="8dkdNY9Aqa6y-CA1yDPD">
-    <mxGraphModel dx="653" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
         <mxCell id="Fcdf2bHfNka544CLP2I--2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="4umfsZEpB1xuYjeLbEqv-46" target="Fcdf2bHfNka544CLP2I--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4umfsZEpB1xuYjeLbEqv-46" value="RMSE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4umfsZEpB1xuYjeLbEqv-46" value="MAPE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372.5" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4umfsZEpB1xuYjeLbEqv-48" value="Analisis dan Evaluasi Hasil" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -173,7 +173,7 @@
         <mxCell id="SCLlUlkhgmIETW-9qGs2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4umfsZEpB1xuYjeLbEqv-31" target="SCLlUlkhgmIETW-9qGs2-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fcdf2bHfNka544CLP2I--1" value="Visualisasi Grafik &lt;i&gt;Loss&lt;/i&gt; dan RMSE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Fcdf2bHfNka544CLP2I--1" value="Visualisasi Grafik &lt;i&gt;Loss&lt;/i&gt; dan MAPE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="517.5" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Ipd6vy-cqfa5WDqftb6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Ipd6vy-cqfa5WDqftb6-1" target="3Ipd6vy-cqfa5WDqftb6-2" edge="1">
